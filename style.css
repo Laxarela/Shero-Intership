@@ -89,7 +89,7 @@ h1,h2,p{
     padding: 10px 0;
 
 }
-/* the styling of the nav just for the sake of design in order not to keep it empty */
+/* the styling of the nav */
 .nav_container , .second_nav{
     max-height: 249px;
     height: 100%;
